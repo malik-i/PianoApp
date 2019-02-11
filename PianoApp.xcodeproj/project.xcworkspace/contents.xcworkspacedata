@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/malik/Desktop/App Dev/PianoApp/PianoApp/pianoKeys.jpeg">
+   </FileRef>
+   <FileRef
       location = "self:PianoApp.xcodeproj">
    </FileRef>
 </Workspace>

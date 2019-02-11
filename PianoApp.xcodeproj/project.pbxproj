@@ -22,6 +22,7 @@
 		84E15C322210EAF0003EFFFC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84E15C352210EAF0003EFFFC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84E15C372210EAF0003EFFFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84E15C402210F08E003EFFFC /* pianoKeys.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = pianoKeys.jpeg; path = "/Users/malik/Desktop/App Dev/PianoApp/PianoApp/pianoKeys.jpeg"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				84E15C322210EAF0003EFFFC /* Assets.xcassets */,
 				84E15C342210EAF0003EFFFC /* LaunchScreen.storyboard */,
 				84E15C372210EAF0003EFFFC /* Info.plist */,
+				84E15C402210F08E003EFFFC /* pianoKeys.jpeg */,
 			);
 			path = PianoApp;
 			sourceTree = "<group>";
